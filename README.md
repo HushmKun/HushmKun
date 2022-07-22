@@ -19,7 +19,7 @@ Hiya! I'm Hussein, from Egypt. I mainly code in **Python** & **C++** and some ot
 I'm currently studying **Computer Science** at **Suez University** in Suez.🏝️
 
 ## 💻 My devices  
-I have a large variety of environments, so I regularly use **Arch Linux** and **Windows**.
+I have a large variety of environments, but I regularly use **Arch Linux** and **Windows**.
 My main devices are:  
 - my **10-inch Acer Aspire One** 💻
 - my **Desktop PC** 🖥️
