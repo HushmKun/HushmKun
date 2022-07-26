@@ -27,6 +27,8 @@ My main devices are:
 ## 📅 Projects  
 I enjoy creating many different things, from uselss **cmd-line tools** to **various problems** and little **algotirhm implementations**.  
 From time to time I'll upload **university projects**. So... expect various kind of stuff from my repos! 
+- 🔭 I’m currently working on ****Arcadium****.
+- 🌱 I’m currently learning how to make linux packages professionally.
 
 ## 📱 Contact
 Feel free to contact me at my email address!  
