@@ -22,7 +22,7 @@ I'm currently studying **Computer Science** at **Suez University** in Suez.🏝�
 I have a large variety of environments, but I regularly use **Arch Linux** and **Windows**.
 My main devices are:  
 - my **10-inch Acer Aspire One** 💻
-- my **Desktop PC** 🖥️
+- my **Lenovo Ideapad Gaming 3** 🖥️
 
 ## 📅 Projects  
 I enjoy creating many different things, from uselss **cmd-line tools** to **various problems** and little **algotirhm implementations**.  
