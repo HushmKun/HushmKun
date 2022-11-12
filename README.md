@@ -1,39 +1,30 @@
-# Hi there 👋
+<h1 align="center">Hiya 👋, I'm Hussein</h1>
+<h3 align="center">An Egyptian student and devoloper.</h3>
 
-<!--
-**HushmKun/HushmKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/hushm_" target="blank"><img src="https://img.shields.io/twitter/follow/hushm_?logo=twitter&style=for-the-badge" alt="hushm_" /></a> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Arcadium](https://github.com/HushmKun/Arcadium)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🙋🏿‍♂️ Me  
-Hiya! I'm Hussein, from Egypt. I mainly code in **Python** & **C++** and some other languages as well!   
-I'm currently studying **Computer Science** at **Suez University** in Suez.🏝️
+- 🌱 I’m currently learning **Tensorflow and Deep Learning**
 
-## 💻 My devices  
-I have a large variety of environments, but I regularly use **Arch Linux** and **Windows**.
-My main devices are:  
-- my **10-inch Acer Aspire One** 💻
-- my **Lenovo Ideapad Gaming 3** 🖥️
+- 👯 I’m looking to collaborate on [APEXIL](https://github.com/HushmKun/APEXIL)
 
-## 📅 Projects  
-I enjoy creating many different things, from uselss **cmd-line tools** to **various problems** and little **algotirhm implementations**.  
-From time to time I'll upload **university projects**. So... expect various kind of stuff from my repos! 
-- 🔭 I’m currently working on ****Arcadium****.
-- 🌱 I’m currently learning how to make linux packages professionally.
+- 👨‍💻 All of my projects are available at [https://github.com/HushmKun?tab=repositories](https://github.com/HushmKun?tab=repositories)
 
-## 📱 Contact
-Feel free to contact me at my email address!  
-- 📨 **mail**: HushmKun@outlook.com  
+- 💬 Ask me about **Arch Linux and Python only.**
 
------
+- 📫 How to reach me **HushmKun@outlook.com**
 
-<a href="https://www.buymeacoffee.com/Hushmkun" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text= Buy me a coffee &emoji=☕&slug=HushmKun&button_colour=669c35&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+- ⚡ Fun fact **I really REALLY like the black color.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hushm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hushm_" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15675078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15675078" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/HushmKun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HushmKun" /></a></p><br><br>
