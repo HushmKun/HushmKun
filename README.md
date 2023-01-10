@@ -1,5 +1,5 @@
 <h1 align="center">Hiya 👋, I'm Hussein</h1>
-<h3 align="center">An Egyptian student and devoloper.</h3>
+<h3 align="center">An Egyptian student and developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/hushm_" target="blank"><img src="https://img.shields.io/twitter/follow/hushm_?logo=twitter&style=for-the-badge" alt="hushm_" /></a> </p>
 
