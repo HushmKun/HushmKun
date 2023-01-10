@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [APEXIL](https://github.com/HushmKun/APEXIL)
 
-- 👨‍💻 All of my projects are available at [https://github.com/HushmKun?tab=repositories](https://github.com/HushmKun?tab=repositories)
+- 👨‍💻 All of my projects are available at [repos](https://github.com/HushmKun?tab=repositories)
 
 - 💬 Ask me about **Arch Linux and Python only.**
 
