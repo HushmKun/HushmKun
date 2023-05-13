@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/hushm_" target="blank"><img src="https://img.shields.io/twitter/follow/hushm_?logo=twitter&style=for-the-badge" alt="hushm_" /></a> </p>
 
-- 🔭 I’m currently working on a **Secret API** 🤩🤩 <!--[Arcadium](https://github.com/HushmKun/Arcadium) -->
+- 🔭 I’m currently working on a new **Fetch Tool** 🤩🤩 
  
 - 🌱 I’m currently learning **Tensorflow and Deep Learning**
-
-<!-- - 👯 I’m looking to collaborate on [APEXIL](https://github.com/HushmKun/APEXIL) -->
 
 - 👨‍💻 All of my projects are available at [repos](https://github.com/HushmKun?tab=repositories)
 
