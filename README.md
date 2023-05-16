@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/hushm_" target="blank"><img src="https://img.shields.io/twitter/follow/hushm_?logo=twitter&style=for-the-badge" alt="hushm_" /></a> </p>
 
-- 🔭 I’m currently working on a new **Fetch Tool** 🤩🤩 
+- 🔭 I’m currently working on **[horus](https://github.com/HushmKun/horus)** 🤩🤩 
  
 - 🌱 I’m currently learning **Tensorflow and Deep Learning**
 
