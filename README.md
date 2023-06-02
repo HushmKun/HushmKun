@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Arch Linux and Python only.**
 
-- 📫 How to reach me **[Here](HushmKun@outlook.com)**
+- 📫 How to reach me **[Here](mailto:HushmKun@outlook.com)**
 
 - ⚡ Fun fact **I really REALLY like the black color.**
 
