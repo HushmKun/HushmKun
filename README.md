@@ -27,5 +27,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/HushmKun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HushmKun" /></a></p><br><br>
 
-<h3 align="left">Stats:</h3>
-[![Hushm's GitHub stats](https://github-readme-stats.vercel.app/api?username=HushmKun)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <h3 align="left">Stats:</h3>
+[![Hushm's GitHub stats](https://github-readme-stats.vercel.app/api?username=HushmKun)](https://github.com/anuraghazra/github-readme-stats) -->
