@@ -27,4 +27,4 @@
 <!-- <h3 align="left">Stats:</h3> -->
 <!-- <p><a href="https://www.buymeacoffee.com/HushmKun"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HushmKun" /></a></p><br>
  -->
-![Hushm's stats](https://github-readme-stats.vercel.app/api?username=HushmKun&show_icons=true&theme=nord)
+![Hushm's stats](https://github-readme-stats.vercel.app/api?username=HushmKun&show_icons=true&theme=nord&show_owner=true)
