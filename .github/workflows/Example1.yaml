@@ -42,6 +42,7 @@ jobs:
           path: ~/dist
           key: ${{ runner.os }}-build
       - run: ls -a ~/dist
+      - run: cat ~/dist/*
       
 
 
