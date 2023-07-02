@@ -13,6 +13,7 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.x'
+      - run: mkdir ~/dist && touch ~/dist/text.txt
       - run: python -V >> ~/dist/text.txt
       - name: Cache python
         uses: actions/cache@v2
@@ -26,6 +27,7 @@ jobs:
             ${{ runner.os }}-
 
   check:
+    needs: python
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
