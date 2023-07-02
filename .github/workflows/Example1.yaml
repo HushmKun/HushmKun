@@ -13,33 +13,34 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-      - run: python -V
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install flake8 pytest artec
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - run: python -V >> ~/dist/text.txt
+      - name: Cache python
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-dir
+        with:
+          path: ~/dist
+          key: ${{ runner.os }}-build
+          restore-keys: |
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
 
-  test:
-    needs: python 
+  check:
     runs-on: ubuntu-latest
     steps:
-    - name: Lint with flake8
-      run: |
-        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
-        flake8 --version
-    - name: Test with pytest
-      run: |
-        pytest -V
-
-  build:
-    needs: test
-    runs-on: ubuntu-latest
-    name: Build and publish Python 🐍 distributions 📦 to TestPyPI
-    steps:
-    - name: Build a binary wheel and a source tarball
-      run: >-
-        artec -V
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Cache python
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-dir
+        with:
+          path: ~/dist
+          key: ${{ runner.os }}-build
+      - run: ls -a ~/dist
+      
 
 
 
