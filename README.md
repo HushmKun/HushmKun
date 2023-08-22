@@ -3,7 +3,7 @@
 
 ![Hushm's Profile](https://cardivo.vercel.app/api?name=Hussein%20Mukhtar&description=Hi,%20I%27m%20a%20Software%20Enginner%20and%20AI%20Developer%20and%20I%27m%2021%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/82482064?v=4&backgroundColor=%23ecf0f1&linkedin=Hussein%20Mukhtar&github=HushmKun&twitter=Hushm_Kun&pattern=topography&colorPattern=%23eaeaea)
 
-- 🔭 I’m currently working on **[Artec](https://github.com/HushmKun/artec)** 🤩🤩 
+- 🔭 I’m currently working on **[PyPexel](https://github.com/HushmKun/pypexel)** 🤩🤩 
  
 - 🌱 I’m currently learning **Tensorflow and Deep Learning**
 
