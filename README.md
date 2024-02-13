@@ -63,5 +63,5 @@
 </p>
 
 
-![Hushm's stats](https://github-readme-stats.vercel.app/api?username=HushmKun&show_icons=true&theme=nord&show_owner=true)<br>
+<!-- ![Hushm's stats](https://github-readme-stats.vercel.app/api?username=HushmKun&show_icons=true&theme=nord&show_owner=true)<br> -->
 <a href="https://www.buymeacoffee.com/Hushmkun"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=Hushmkun&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
