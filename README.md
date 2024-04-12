@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **[Anubis](https://github.com/AnubisOS)** Coming SOON. 🤩🤩 
  
-- 🌱 I’m currently learning **TensorFlow and Deep Learning**
+<!-- - 🌱 I’m currently learning **TensorFlow and Deep Learning** -->
 
 - 👨‍💻 All of my projects are available at [repos](https://github.com/HushmKun?tab=repositories)
 
 - 💬 Ask me about **Arch Linux and Python**
 
-- 📫 How to reach me **[Here](mailto:HushmKun@outlook.com)**
+- 📫 You can reach me **[Here](mailto:HushmKun@outlook.com)**
 
 - ⚡ Fun fact **I really REALLY like the black colour.**
 
