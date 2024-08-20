@@ -3,17 +3,15 @@
 
 ![Hushm's Profile](https://cardivo.vercel.app/api?name=Hussein%20Mukhtar&description=Hi,%20I%27m%20a%20Backend%20Engineer%20and%20AI%20Developer%20and%20I%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/82482064?v=4&backgroundColor=%23ecf0f1&linkedin=Hussein%20Mukhtar&github=HushmKun&twitter=Hushm_Kun&pattern=wiggle&colorPattern=%23eaeaea)
 
-- 🔭 I’m currently working on **[Anubis](https://github.com/AnubisOS)** Coming SOON. 🤩🤩 
+- 🔭 I’m currently working on **A secret project**. 🤫🤫 
  
-<!-- - 🌱 I’m currently learning **TensorFlow and Deep Learning** -->
+- 🌱 I’m currently learning **Django & RESTful APIs** 
 
 - 👨‍💻 All of my projects are available at [repos](https://github.com/HushmKun?tab=repositories)
 
-- 💬 Ask me about **Arch Linux and Python**
+- 💬 Ask me about **Arch Linux, Django and Python**
 
 - 📫 You can reach me **[Here](mailto:HushmKun@outlook.com)**
-
-- ⚡ Fun fact **I really REALLY like the black colour.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
