@@ -1,0 +1,119 @@
+{
+"layer": "top",
+"position": "top",
+"height": 10,
+"margin-bottom":0,
+"margin-top":0,
+
+"modules-left": ["cpu","memory","network","mpris"],
+"modules-center": ["hyprland/workspaces"],
+"modules-right":  ["tray","custom/night","pulseaudio","backlight","battery","clock"],
+
+"battery": {
+  "states": {
+  "warning": 30,
+  "critical": 15
+  },
+  "format": "{icon}&#8239;{capacity}%",
+  "format-charging": " {capacity}%",
+  "format-plugged":  " {capacity}%",
+  "format-alt": "{icon} {time}",
+  "format-icons": ["", "", "", "", ""]
+},
+"hyprland/workspaces": {
+     "sort-by-name": true,
+     "on-click": "activate"
+},
+"hyprland/window": {
+    "max-length": 200,
+    "separate-outputs": true
+},
+"tray": {
+    "icon-size": 16,
+    "spacing": 6
+},
+"clock": {
+    "locale": "C", 
+    "format": " {:%I:%M %p}",
+    "format-alt": " {:%a,%b %d}" // Icon: calendar-alt
+},
+"cpu": {
+    "format": "  {usage}%",
+    "tooltip": true,
+    "tooltip-format":"{usage} / {total}",
+    "on-click": "kitty -e 'htop'"
+},
+"memory": {
+    "interval": 30,
+    "format": " {used:0.2f}GB",
+    "max-length": 10,
+    "tooltip": true,
+    "tooltip-format": "{used:0.2f} / {total:0.2f}",
+    "warning": 70,
+    "critical": 90
+},
+"network": {
+  "interval": 2,
+  "format-wifi": "  {signalStrength}%",
+  "format-ethernet": "",
+  "format-linked": " {ipaddr}",
+  "format-disconnected": " Disconnected",
+  "format-disabled": "  Airplane Mode",
+  "tooltip": true,
+  "max-length": 20,
+  "min-length": 6,
+  "format-alt": "{essid}",
+},
+"custom/night": {
+    "format": "{icon} ",
+    "format-icons":{
+	"active": " ",
+	"inactive": " "
+	},
+    "on-click": "$HOME/.config/waybar/scripts/night_mode &> /dev/null "
+},
+"backlight": {
+    "device": "amdgpu_bl0",
+    "format": "{icon} {percent}%",
+    "format-icons": ["", ""],
+    "on-scroll-down": "brightnessctl -c backlight set 1%-",
+    "on-scroll-up": "brightnessctl -c backlight set +1%"
+},
+"pulseaudio": {
+  "scroll-step": 1, // %, can be a float
+  "format": "{icon} {volume}% {format_source}",
+  "format-bluetooth": "{icon} {volume}% {format_source}",
+  "format-bluetooth-muted": " {format_source}",
+  "format-muted": "  {format_source}",
+  "format-source": " {volume}%",
+  "format-source-muted": "",
+  "format-icons": {
+    "headphone": "",
+    "hands-free": "",
+    "headset": "🎧",
+    "phone": "",
+    "portable": "",
+    "car": "",
+    "default": ["", "", ""]
+  }
+},
+"mpris": {
+	"tooltip-format":"{player_icon} {title} by {artist} from {album}",
+	"format": "{player_icon} {artist} by {title}",
+	"format-paused": "{status_icon} <i>{artist} by {title}</i>",
+	"format-stopped": "{status_icon} Can you hear the silence ?",
+	"title-len":20,
+	"player-icons": {
+		"default": "▶ ",
+		"mpv": "🎵 ",
+		"spotify": " ",
+		"chromium": " "
+	},
+	"status-icons": {
+		"paused": "",
+		"stopped": " "
+	},
+	// "ignored-players" : ["chromium"],
+	"interval" : 1
+}
+}

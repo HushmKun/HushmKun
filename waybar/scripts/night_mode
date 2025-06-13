@@ -1,0 +1,9 @@
+#!/bin/bash
+
+status=$(pidof wlsunset)
+
+if [[ -n "$status" ]]; then
+  kill $(pidof wlsunset) > /dev/null
+else
+  wlsunset > /dev/null
+fi
