@@ -1,11 +1,11 @@
 <h1 align="center">Hiya 👋, I'm Hussein</h1>
-<h3 align="center">An Egyptian developer.</h3>
+<h3 align="center">A software Engineer.</h3>
 
-![Hushm's Profile](https://cardivo.vercel.app/api?name=Hussein%20Mukhtar&description=Hi,%20I%27m%20a%20Backend%20Engineer%20and%20AI%20Developer%20and%20I%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/82482064?v=4&backgroundColor=%23ecf0f1&linkedin=Hussein%20Mukhtar&github=HushmKun&twitter=Hushm_Kun&pattern=wiggle&colorPattern=%23eaeaea)
+![Hushm's Profile](https://cardivo.vercel.app/api?name=Hussein%20Mukhtar&description=Hi,%20I%27m%20a%20Software%20Engineer%20and%20Backend%20Developer%20and%20I%27m%2023%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/82482064?v=4&backgroundColor=%23ecf0f1&linkedin=Hussein%20Mukhtar&github=HushmKun&twitter=Hushm_Kun&pattern=wiggle&colorPattern=%23eaeaea)
 
-- 🔭 I’m currently working on **A secret project**. 🤫🤫 
+- 🔭 I’m expert on **Django & RESTful APIs**
  
-- 🌱 I’m currently learning **Django & RESTful APIs** 
+- 🌱 I’m currently learning **Kotlin & Android** 
 
 - 👨‍💻 All of my projects are available at [repos](https://github.com/HushmKun?tab=repositories)
 
@@ -44,6 +44,3 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 	</a>  
 </p>
-
-
-<a href="https://www.buymeacoffee.com/Hushmkun"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=Hushmkun&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
